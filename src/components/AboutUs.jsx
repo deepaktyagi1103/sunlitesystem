@@ -32,10 +32,10 @@ export default function AboutUs() {
   ];
 
   return (
-    <section 
-      ref={sectionRef}
-      className="py-20 px-6 md:px-20 bg-gradient-to-br from-gray-50 via-white to-blue-50 relative overflow-hidden"
-    >
+   <section 
+  ref={sectionRef}
+  className="pt-4 pb-20 px-2 md:px-20 bg-gradient-to-br from-gray-80 via-white to-blue-50 relative overflow-hidden"
+>
       {/* Background Decorative Elements */}
       <div className="absolute top-0 left-0 w-72 h-72 bg-blue-100/30 rounded-full blur-3xl -translate-x-1/2 -translate-y-1/2"></div>
       <div className="absolute bottom-0 right-0 w-96 h-96 bg-purple-100/20 rounded-full blur-3xl translate-x-1/2 translate-y-1/2"></div>

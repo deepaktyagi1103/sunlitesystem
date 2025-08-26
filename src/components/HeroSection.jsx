@@ -46,7 +46,8 @@ export default function HeroSection() {
 
   return (
     <section
-      className="relative h-[75vh] flex flex-col justify-center items-center text-center text-white bg-cover bg-center transition-all duration-1000 ease-in-out"
+  className="relative h-[95vh] flex flex-col justify-center items-center text-center text-white bg-cover bg-center transition-all duration-1000 ease-in-out"
+
       style={{
         backgroundImage: `url('${professionalImages[currentImageIndex]}')`,
       }}

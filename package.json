@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://deepaktyagi1103.github.io/sunlitesystem/",
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",
